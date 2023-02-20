@@ -1,0 +1,9 @@
+main: ${groupId}.${artifactId}
+name: ${artifactId}
+version: ${version}
+api-version: 1.13
+depend:
+  - WorldGuard
+
+author: Ecconia
+description: A plugin that registers flags into WorldGuard (that is it).
